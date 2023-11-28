@@ -1,0 +1,54 @@
+.card {
+    width: 300px;
+    border: 1px solid blue;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Style the card header */
+.card-header {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+  /* Style the card content */
+.card-content {
+    padding: 20px;
+    text-align: center;
+}
+.vcard{
+    width : 100%;
+    position :relative;
+    display:flex;
+}
+.chart{
+  position: relative;
+  display:flex;
+}
+.responce {
+  width: 1450px;
+  border: 1px solid blue;
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the card header */
+.responce-header {
+  background-color: red;
+  height: fit-content;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Style the card content */
+.responce-content {
+  padding: 5px;
+  text-align: center;
+}
